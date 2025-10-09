@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Anna!
+# 👋 Hi, I'm Anna!
 
 Welcome to my GitHub. I’m a **Fullstack Engineer**, and this is where I **build**, **learn**, and **share**.
 

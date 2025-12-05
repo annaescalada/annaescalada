@@ -11,7 +11,3 @@ Full Stack Engineer in Barcelona. Backend-focused, cloud-curious, and always bui
 ## Let's Connect
 
 [Portfolio](https://annaescalada.github.io) • [LinkedIn](https://linkedin.com/in/annaescalada) • [Email](mailto:annaescalada@gmail.com)
-
----
-
-*Open to remote opportunities*

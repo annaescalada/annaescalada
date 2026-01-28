@@ -1,6 +1,6 @@
 # Hi, I'm Anna 👋
 
-Full Stack Engineer in Barcelona. Backend and cloud focused. When I'm not coding, I'm at the piano 🎹
+Full Stack Engineer in Barcelona. Backend and cloud focused.
 
 ## Tech Stack
 
